@@ -32,7 +32,7 @@
 
 ## ⚙ 〢 Reversing Video
 
-![Video](https://streamable.com/qfyvzp)
+[![Video](https://cdn.streamable.com/image/qfyvzp.jpg)](https://streamable.com/qfyvzp)
 
 ## ⚠ 〢 Disclaimer
 > **Warning**
